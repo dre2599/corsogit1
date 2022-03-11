@@ -1,18 +1,3 @@
-sono stato modificato per il merge 333
-
-class Person:
-  def __init__(self, name, age):
-    self.name = name
-    self.age = age
-
-p1 = Person("John", 36)
-
-
-print(p1.age)
-
-p1 = Person("John", 36)
-
-
-print(p1.age)
-
-h1 h1
+1
+56
+78
